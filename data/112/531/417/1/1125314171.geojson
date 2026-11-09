@@ -236,7 +236,7 @@
         102191581,
         85633269,
         85685765,
-        102073587
+        1175612921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -250,7 +250,7 @@
         {
             "continent_id":102191581,
             "country_id":85633269,
-            "county_id":102073587,
+            "county_id":1175612921,
             "localadmin_id":1125314171,
             "region_id":85685765
         }
@@ -258,7 +258,7 @@
     "wof:id":1125314171,
     "wof:lastmodified":1566598032,
     "wof:name":"Alytus",
-    "wof:parent_id":102073587,
+    "wof:parent_id":1175612921,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],

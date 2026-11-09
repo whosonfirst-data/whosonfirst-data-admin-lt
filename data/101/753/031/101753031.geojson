@@ -791,8 +791,7 @@
     "wof:belongsto":[
         102191581,
         85633269,
-        85685759,
-        102073615
+        85685759
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -826,7 +825,7 @@
     "wof:lastmodified":1690938635,
     "wof:megacity":0,
     "wof:name":"Vilnius",
-    "wof:parent_id":102073615,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "county"

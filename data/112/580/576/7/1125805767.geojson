@@ -91,7 +91,7 @@
         102191581,
         85633269,
         85685765,
-        102073591
+        1175612921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +107,7 @@
         {
             "continent_id":102191581,
             "country_id":85633269,
-            "county_id":102073591,
+            "county_id":1175612921,
             "locality_id":1125805767,
             "region_id":85685765
         }
@@ -115,7 +115,7 @@
     "wof:id":1125805767,
     "wof:lastmodified":1690938683,
     "wof:name":"Punia",
-    "wof:parent_id":102073591,
+    "wof:parent_id":1175612921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],

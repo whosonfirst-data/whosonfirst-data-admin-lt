@@ -144,7 +144,7 @@
         102191581,
         85633269,
         85685759,
-        102073615
+        101753031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -158,7 +158,6 @@
         {
             "continent_id":102191581,
             "country_id":85633269,
-            "county_id":102073615,
             "locality_id":101754089,
             "region_id":85685759
         }
@@ -166,7 +165,7 @@
     "wof:id":101754089,
     "wof:lastmodified":1690938635,
     "wof:name":"Grigi\u0161k\u0117s",
-    "wof:parent_id":102073615,
+    "wof:parent_id":101753031,
     "wof:placetype":"locality",
     "wof:population":11555,
     "wof:population_rank":6,
