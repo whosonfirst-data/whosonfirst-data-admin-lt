@@ -71,7 +71,7 @@
         "wk:page":"Paj%C5%ABris"
     },
     "wof:country":"LT",
-    "wof:geomhash":"8142af95346ccb91925923acd0c531ac",
+    "wof:geomhash":"9f50581b41640ce601914edd3a2eceec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     22.02696,
     55.44988000000001
 ],
-  "geometry": {"coordinates":[22.02696,55.44988000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.02696,55.44988],"type":"Point"}
 }

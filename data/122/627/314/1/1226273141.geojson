@@ -76,7 +76,7 @@
         "wk:page":"Va%C5%A1kai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"060da2fce5ff9b3d026b4af7b59f3efc",
+    "wof:geomhash":"4f321aa346f07364e0e0b6e3f98e07d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     24.21083,
     56.16733000000001
 ],
-  "geometry": {"coordinates":[24.21083,56.16733000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.21083,56.16733],"type":"Point"}
 }

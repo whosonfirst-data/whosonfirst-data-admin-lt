@@ -67,7 +67,7 @@
         "wk:page":"Kani%C5%ABkai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"d7793bf75d92de2b9e428324f8136e46",
+    "wof:geomhash":"eef35d0272c2a432e8ef38bec90776a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     25.24511,
     54.27934000000001
 ],
-  "geometry": {"coordinates":[25.24511,54.27934000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.24511,54.27934],"type":"Point"}
 }

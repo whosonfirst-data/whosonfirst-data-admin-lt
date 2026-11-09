@@ -70,7 +70,7 @@
         "wk:page":"Gud%C5%BEi%C5%ABnai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"20cd60161d2e328aacec28406cc268fd",
+    "wof:geomhash":"7004b2c1feb1de059874bd72b7d04500",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.77339,
     55.50933000000001
 ],
-  "geometry": {"coordinates":[23.77339,55.50933000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.77339,55.50933],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Eigird%C5%BEiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"74a05c8fbb4477e0929bc7c0c2d85b46",
+    "wof:geomhash":"db2a5f193543efca8a5473c5bc03add6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.37662000000001,
     56.00978000000001
 ],
-  "geometry": {"coordinates":[22.37662000000001,56.00978000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.37662,56.00978],"type":"Point"}
 }

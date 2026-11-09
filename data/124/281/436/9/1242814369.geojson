@@ -78,7 +78,7 @@
         "wk:page":"Upyna"
     },
     "wof:country":"LT",
-    "wof:geomhash":"c7836cd9b9a6444eefc023960e2ea447",
+    "wof:geomhash":"5436c1b72a8618b7bd5e7922b4117ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     22.44401,
     55.44739000000001
 ],
-  "geometry": {"coordinates":[22.44401,55.44739000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.44401,55.44739],"type":"Point"}
 }

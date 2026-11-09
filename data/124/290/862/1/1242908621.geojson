@@ -68,7 +68,7 @@
         "wk:page":"Veliuona"
     },
     "wof:country":"LT",
-    "wof:geomhash":"840a56652dbaeb1255969b0d973e5b3d",
+    "wof:geomhash":"b868bf9efd00fd49f19d91d620701b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     23.27084,
     55.08193000000001
 ],
-  "geometry": {"coordinates":[23.27084,55.08193000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.27084,55.08193],"type":"Point"}
 }

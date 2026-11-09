@@ -51,7 +51,7 @@
         "wk:page":"Rady%C5%A1%C4%8Dius"
     },
     "wof:country":"LT",
-    "wof:geomhash":"59dcaf9dfe109dec78248f7742472287",
+    "wof:geomhash":"826f6def49bd5e08c7ddb48b73d117df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     24.05911,
     54.12878000000001
 ],
-  "geometry": {"coordinates":[24.05911,54.12878000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.05911,54.12878],"type":"Point"}
 }

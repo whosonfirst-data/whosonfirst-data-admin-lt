@@ -68,7 +68,7 @@
         "wk:page":"Pa%C5%A1vitinys"
     },
     "wof:country":"LT",
-    "wof:geomhash":"578dcc99709728cde68fc10782bd24ab",
+    "wof:geomhash":"793f9b42299310256601e7f3cfd4326e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     23.81618,
     56.15884000000001
 ],
-  "geometry": {"coordinates":[23.81618,56.15884000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.81618,56.15884],"type":"Point"}
 }

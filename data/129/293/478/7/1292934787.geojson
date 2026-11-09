@@ -113,7 +113,7 @@
         "wk:page":"Skaudvil%C4%97"
     },
     "wof:country":"LT",
-    "wof:geomhash":"5c9eaaf145a9a2c1f84530a54e61fc11",
+    "wof:geomhash":"a4bfc7a777abd13e406db656300c8158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,5 +139,5 @@
     22.58018,
     55.40708000000001
 ],
-  "geometry": {"coordinates":[22.58018,55.40708000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.58018,55.40708],"type":"Point"}
 }

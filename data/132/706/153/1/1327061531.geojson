@@ -73,7 +73,7 @@
         "wk:page":"Alizava"
     },
     "wof:country":"LT",
-    "wof:geomhash":"1f3bdecd55b326ca9c8cc854c35ee84d",
+    "wof:geomhash":"3fab57989b339cc1f99b479d6d2fb910",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     25.0,
     55.973
 ],
-  "geometry": {"coordinates":[25.0,55.973],"type":"Point"}
+  "geometry": {"coordinates":[25,55.973],"type":"Point"}
 }

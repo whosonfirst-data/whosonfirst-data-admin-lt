@@ -74,7 +74,7 @@
         "wk:page":"Duoki%C5%A1kis"
     },
     "wof:country":"LT",
-    "wof:geomhash":"f133dab27fb01a8046521c5740a7bb9e",
+    "wof:geomhash":"638bb8742dbf8b79f39d96b0c201d362",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     25.52752000000001,
     55.74307
 ],
-  "geometry": {"coordinates":[25.52752000000001,55.74307],"type":"Point"}
+  "geometry": {"coordinates":[25.52752,55.74307],"type":"Point"}
 }

@@ -87,7 +87,7 @@
         "wk:page":"Vand%C5%BEiogala"
     },
     "wof:country":"LT",
-    "wof:geomhash":"021161a4c46e747afa7c966bfa7d3aad",
+    "wof:geomhash":"ae683d772214cf2d7c0bc9b0ac87b041",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     23.96667,
     55.11666999999999
 ],
-  "geometry": {"coordinates":[23.96667,55.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.96667,55.11667],"type":"Point"}
 }

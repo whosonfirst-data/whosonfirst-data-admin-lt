@@ -58,7 +58,7 @@
         "wk:page":"%C4%8Ci%C4%8Dinai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"b4971f75ad3c8668ccc09bf2f2eaff6b",
+    "wof:geomhash":"9af03b09b57e2f41c375bb742fa87973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     24.18273,
     55.07358000000001
 ],
-  "geometry": {"coordinates":[24.18273,55.07358000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.18273,55.07358],"type":"Point"}
 }

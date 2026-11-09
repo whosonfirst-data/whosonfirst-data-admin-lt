@@ -60,7 +60,7 @@
         "wk:page":"Tyruliai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"fd9541c0a37c88e51eed24b016e6621a",
+    "wof:geomhash":"f338fc1a173bbf17d6f6b5fb073d05cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     23.35,
     55.78333000000001
 ],
-  "geometry": {"coordinates":[23.35,55.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.35,55.78333],"type":"Point"}
 }

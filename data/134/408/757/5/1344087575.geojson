@@ -64,7 +64,7 @@
         "wk:page":"Kulva"
     },
     "wof:country":"LT",
-    "wof:geomhash":"07ff10d433284c25d42001932188fc4c",
+    "wof:geomhash":"e6f3831b9411c908dce51cdc0ae138b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     24.17502,
     55.10704000000001
 ],
-  "geometry": {"coordinates":[24.17502,55.10704000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.17502,55.10704],"type":"Point"}
 }

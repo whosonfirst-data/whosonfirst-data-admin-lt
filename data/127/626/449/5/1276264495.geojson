@@ -46,7 +46,7 @@
         "wk:page":"Barteliai_%28Var%C4%97na%29"
     },
     "wof:country":"LT",
-    "wof:geomhash":"96b13284892169dac58ac45b37b33ea9",
+    "wof:geomhash":"73753492b5120900c71d290f1802be91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     24.6722,
     54.31276999999999
 ],
-  "geometry": {"coordinates":[24.6722,54.31276999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.6722,54.31277],"type":"Point"}
 }

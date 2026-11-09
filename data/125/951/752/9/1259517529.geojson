@@ -72,7 +72,7 @@
         "wk:page":"%C5%BDalpiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"6e10ae2949b44acf76ad379e06b45704",
+    "wof:geomhash":"961a813cb9462f2d03bd1713e68aec3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.85974,
     55.47853000000001
 ],
-  "geometry": {"coordinates":[22.85974,55.47853000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.85974,55.47853],"type":"Point"}
 }

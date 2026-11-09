@@ -63,7 +63,7 @@
         "wk:page":"%C5%A0akyna"
     },
     "wof:country":"LT",
-    "wof:geomhash":"673f2622f4dac4a0ad0f6ef6d5847fda",
+    "wof:geomhash":"e2cc6c96cef6d7456cdcc74b470b8ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     23.12511,
     56.17959000000001
 ],
-  "geometry": {"coordinates":[23.12511,56.17959000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.12511,56.17959],"type":"Point"}
 }

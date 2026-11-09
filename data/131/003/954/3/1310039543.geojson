@@ -72,7 +72,7 @@
         "wk:page":"Tverai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"56fb6a30fa693c2460460d71f245d405",
+    "wof:geomhash":"45259237732bb02383f89e7eae7fd209",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.14586,
     55.73289000000001
 ],
-  "geometry": {"coordinates":[22.14586,55.73289000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.14586,55.73289],"type":"Point"}
 }

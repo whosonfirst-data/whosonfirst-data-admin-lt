@@ -81,7 +81,7 @@
         "wk:page":"Aduti%C5%A1kis"
     },
     "wof:country":"LT",
-    "wof:geomhash":"62785f475891d5a337f7256338d04b65",
+    "wof:geomhash":"2d646320bb0b4cfb76c1291ee5404579",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     26.58816,
     55.15923000000001
 ],
-  "geometry": {"coordinates":[26.58816,55.15923000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.58816,55.15923],"type":"Point"}
 }

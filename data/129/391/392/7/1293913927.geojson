@@ -72,7 +72,7 @@
         "wk:page":"Luok%C4%97"
     },
     "wof:country":"LT",
-    "wof:geomhash":"6dba7603707bd39855b102bbafd8edb8",
+    "wof:geomhash":"5ee96a23b6628ff63831818a012bada2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.52412,
     55.89429000000001
 ],
-  "geometry": {"coordinates":[22.52412,55.89429000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.52412,55.89429],"type":"Point"}
 }

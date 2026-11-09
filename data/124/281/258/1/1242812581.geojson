@@ -53,7 +53,7 @@
         "wk:page":"Rimkai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"5ca97575e54f042adfccc0edfb8e5b8d",
+    "wof:geomhash":"e71ab441f4482af80f28ddded11e1436",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     24.23145,
     55.07046999999999
 ],
-  "geometry": {"coordinates":[24.23145,55.07046999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.23145,55.07047],"type":"Point"}
 }

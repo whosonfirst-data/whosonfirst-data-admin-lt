@@ -68,7 +68,7 @@
         "wk:page":"Liudvinavas"
     },
     "wof:country":"LT",
-    "wof:geomhash":"e5f400eec88b9d212b94c406c4f3b33c",
+    "wof:geomhash":"33cec5a8f91ffa812be311cea16be490",
     "wof:hierarchy":[
         {
             "country_id":85633269,
@@ -91,5 +91,5 @@
     23.36287,
     54.48139000000001
 ],
-  "geometry": {"coordinates":[23.36287,54.48139000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.36287,54.48139],"type":"Point"}
 }

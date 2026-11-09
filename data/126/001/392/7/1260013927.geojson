@@ -45,7 +45,7 @@
         "gn:id":11295207
     },
     "wof:country":"LT",
-    "wof:geomhash":"b734dc5c22eb642af3d18ad50c30303d",
+    "wof:geomhash":"7fc69dcd049e7adf358d284230801992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     25.70509,
     54.62023000000001
 ],
-  "geometry": {"coordinates":[25.70509,54.62023000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.70509,54.62023],"type":"Point"}
 }

@@ -79,7 +79,7 @@
         "wk:page":"U%C5%BEusaliai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"3c621763e4962872c836f01a1c966262",
+    "wof:geomhash":"5d507e55f505a14c7f8cc79f4e2d38c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,5 +105,5 @@
     24.19382,
     54.98099000000001
 ],
-  "geometry": {"coordinates":[24.19382,54.98099000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.19382,54.98099],"type":"Point"}
 }

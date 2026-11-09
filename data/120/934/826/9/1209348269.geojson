@@ -71,7 +71,7 @@
         "wk:page":"Traupis"
     },
     "wof:country":"LT",
-    "wof:geomhash":"b198664b91def9561f30c6b139a23390",
+    "wof:geomhash":"9c39144a435b51f84e96b06211720db1",
     "wof:hierarchy":[
         {
             "country_id":85633269,
@@ -94,5 +94,5 @@
     24.75069,
     55.51289000000001
 ],
-  "geometry": {"coordinates":[24.75069,55.51289000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.75069,55.51289],"type":"Point"}
 }

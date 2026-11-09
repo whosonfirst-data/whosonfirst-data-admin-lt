@@ -35,7 +35,7 @@
     "wof:concordances":{},
     "wof:country":"LT",
     "wof:created":1491367987,
-    "wof:geomhash":"f037b13f6de44421e24533c18f861887",
+    "wof:geomhash":"786633f5dedc6af98d69ec941ec24080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,5 +62,5 @@
     25.26561779316019,
     54.68721021962617
 ],
-  "geometry": {"coordinates":[25.26561779316019,54.68721021962617],"type":"Point"}
+  "geometry": {"coordinates":[25.265618,54.68721],"type":"Point"}
 }

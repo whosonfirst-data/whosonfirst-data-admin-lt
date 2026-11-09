@@ -76,7 +76,7 @@
         "wk:page":"Antaliept%C4%97"
     },
     "wof:country":"LT",
-    "wof:geomhash":"5f1925ae2bfdc11a6d3bbcc0567bc99d",
+    "wof:geomhash":"8b5eba418b803e744583adc1ed5c9c80",
     "wof:hierarchy":[
         {
             "country_id":85633269,
@@ -99,5 +99,5 @@
     25.86807,
     55.66088000000001
 ],
-  "geometry": {"coordinates":[25.86807,55.66088000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.86807,55.66088],"type":"Point"}
 }

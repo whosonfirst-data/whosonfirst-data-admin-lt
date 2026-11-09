@@ -68,7 +68,7 @@
         "wk:page":"Pa%C5%A1u%C5%A1vys"
     },
     "wof:country":"LT",
-    "wof:geomhash":"863a159bdf1832d657d2b9b47c78817c",
+    "wof:geomhash":"0a588e6037d193f81a5732e373773fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     23.59537000000001,
     55.58324
 ],
-  "geometry": {"coordinates":[23.59537000000001,55.58324],"type":"Point"}
+  "geometry": {"coordinates":[23.59537,55.58324],"type":"Point"}
 }

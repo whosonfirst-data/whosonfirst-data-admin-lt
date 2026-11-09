@@ -55,7 +55,7 @@
         "wk:page":"Paliepiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"97f390ded395b78b7091ec312102ab15",
+    "wof:geomhash":"f25e1d45aa76548112279e2fdc32cf05",
     "wof:hierarchy":[
         {
             "country_id":85633269,
@@ -78,5 +78,5 @@
     22.97306,
     55.37694000000001
 ],
-  "geometry": {"coordinates":[22.97306,55.37694000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.97306,55.37694],"type":"Point"}
 }

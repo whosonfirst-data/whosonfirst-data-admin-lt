@@ -50,7 +50,7 @@
         "wk:page":"Roduka"
     },
     "wof:country":"LT",
-    "wof:geomhash":"031bcdb2156d07d8dfd36111b23b87c3",
+    "wof:geomhash":"a3e36379c7ab9cfae361b94dc1bf30cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     24.24429,
     54.11691999999999
 ],
-  "geometry": {"coordinates":[24.24429,54.11691999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.24429,54.11692],"type":"Point"}
 }

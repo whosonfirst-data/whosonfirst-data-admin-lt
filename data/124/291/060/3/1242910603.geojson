@@ -63,7 +63,7 @@
         "wk:page":"Pir%C4%8Diupiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"8aadb047a8e5e6b11a142ea8396872e7",
+    "wof:geomhash":"3517e7b9efb5d2a57724beff0175b913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     24.95584,
     54.40003000000001
 ],
-  "geometry": {"coordinates":[24.95584,54.40003000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.95584,54.40003],"type":"Point"}
 }

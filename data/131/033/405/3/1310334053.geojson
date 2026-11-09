@@ -77,7 +77,7 @@
         "wk:page":"Tvere%C4%8Dius"
     },
     "wof:country":"LT",
-    "wof:geomhash":"b6ef793e75589355e38703ed262eb46f",
+    "wof:geomhash":"d65bac97447d6ebcf7d9ed17c3542d21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     26.60219,
     55.31336999999999
 ],
-  "geometry": {"coordinates":[26.60219,55.31336999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.60219,55.31337],"type":"Point"}
 }

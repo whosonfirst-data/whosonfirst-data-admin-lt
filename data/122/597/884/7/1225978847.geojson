@@ -63,7 +63,7 @@
         "wk:page":"Nemirseta"
     },
     "wof:country":"LT",
-    "wof:geomhash":"6e0a92ebfe22748addefd200b9b7cef1",
+    "wof:geomhash":"3d4cc7c25da5c9e32a939b28486bc472",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     21.08167000000001,
     55.87848
 ],
-  "geometry": {"coordinates":[21.08167000000001,55.87848],"type":"Point"}
+  "geometry": {"coordinates":[21.08167,55.87848],"type":"Point"}
 }

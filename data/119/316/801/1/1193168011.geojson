@@ -55,7 +55,7 @@
         "wk:page":"Petra%C5%A1i%C5%ABnai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"623ca5e1937e0188001cd579b939df79",
+    "wof:geomhash":"77865e39040098f5c4840400170041e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.93942,
     56.02314000000001
 ],
-  "geometry": {"coordinates":[23.93942,56.02314000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.93942,56.02314],"type":"Point"}
 }

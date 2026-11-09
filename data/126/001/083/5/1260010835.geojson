@@ -76,7 +76,7 @@
         "wk:page":"%C4%8Ceki%C5%A1k%C4%97"
     },
     "wof:country":"LT",
-    "wof:geomhash":"51212f1f786f7c47819af33a340d0f44",
+    "wof:geomhash":"55bf7de72218a58cc90c20096e2b266d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     23.52255,
     55.15728000000001
 ],
-  "geometry": {"coordinates":[23.52255,55.15728000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.52255,55.15728],"type":"Point"}
 }

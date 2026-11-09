@@ -68,7 +68,7 @@
         "wk:page":"Deltuva"
     },
     "wof:country":"LT",
-    "wof:geomhash":"5b82e431de1f1d68ea6560964b53db9c",
+    "wof:geomhash":"9136d76f0afecb7e6e232d7c4876ebf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     24.66839,
     55.23954000000001
 ],
-  "geometry": {"coordinates":[24.66839,55.23954000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.66839,55.23954],"type":"Point"}
 }

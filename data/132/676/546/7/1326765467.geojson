@@ -60,7 +60,7 @@
         "wk:page":"Ru%C4%8Di%C5%ABnai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"41f02e018f6f90ddca3275cdbb6b7a95",
+    "wof:geomhash":"fe5fed470ada1b3d6e683fb386b1fa55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     24.18953,
     55.12923000000001
 ],
-  "geometry": {"coordinates":[24.18953,55.12923000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.18953,55.12923],"type":"Point"}
 }

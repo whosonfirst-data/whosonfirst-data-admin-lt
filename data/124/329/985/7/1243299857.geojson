@@ -56,7 +56,7 @@
         "wk:page":"Ilgininkai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"899de2a39c23347fac52a4cec838454e",
+    "wof:geomhash":"4b9e888056be8672882f7051a674a896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     24.14718,
     54.25604000000001
 ],
-  "geometry": {"coordinates":[24.14718,54.25604000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.14718,54.25604],"type":"Point"}
 }

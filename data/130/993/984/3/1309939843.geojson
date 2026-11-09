@@ -80,7 +80,7 @@
         "wk:page":"Survili%C5%A1kis"
     },
     "wof:country":"LT",
-    "wof:geomhash":"f7d82ef148355e5db929ae7da5b30ffa",
+    "wof:geomhash":"0251ae818e38b6586c1450a3072d1d16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     24.03395,
     55.44889000000001
 ],
-  "geometry": {"coordinates":[24.03395,55.44889000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.03395,55.44889],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Kupreli%C5%A1kis"
     },
     "wof:country":"LT",
-    "wof:geomhash":"fd3ae0ab8845fa09bc4be3476bff3094",
+    "wof:geomhash":"899d7e2409c00c3b88258616e7e447b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     24.96358,
     56.04123000000001
 ],
-  "geometry": {"coordinates":[24.96358,56.04123000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.96358,56.04123],"type":"Point"}
 }

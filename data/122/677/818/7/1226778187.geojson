@@ -55,7 +55,7 @@
         "wk:page":"Mimainiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"981e75aa9b865148ed98c8faffbd7e76",
+    "wof:geomhash":"9c8ea746a57fd1520af8c70d29aa2869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     24.34492,
     55.24426999999999
 ],
-  "geometry": {"coordinates":[24.34492,55.24426999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.34492,55.24427],"type":"Point"}
 }

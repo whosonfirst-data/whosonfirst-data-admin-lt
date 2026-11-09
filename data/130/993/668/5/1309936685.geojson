@@ -72,7 +72,7 @@
         "wk:page":"Gaur%C4%97"
     },
     "wof:country":"LT",
-    "wof:geomhash":"3c22a2d432b50459e58d81d2ea95b0a2",
+    "wof:geomhash":"90ccf4a3c83b2102e3533b69ce27125c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.47021,
     55.24218000000001
 ],
-  "geometry": {"coordinates":[22.47021,55.24218000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.47021,55.24218],"type":"Point"}
 }

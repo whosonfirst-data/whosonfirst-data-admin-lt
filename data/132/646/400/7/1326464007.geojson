@@ -59,7 +59,7 @@
         "wk:page":"Luksn%C4%97nai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"24390327da2551f33c6894e76b60ff82",
+    "wof:geomhash":"200043dab2a6bcab123a023e43dfa53a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     23.92617000000001,
     54.39876
 ],
-  "geometry": {"coordinates":[23.92617000000001,54.39876],"type":"Point"}
+  "geometry": {"coordinates":[23.92617,54.39876],"type":"Point"}
 }

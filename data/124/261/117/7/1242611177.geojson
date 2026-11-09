@@ -58,7 +58,7 @@
         "wk:page":"Tubiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"8980f6f4451e5d2a34a54bfcedaca771",
+    "wof:geomhash":"539a7c43dfb4249f5f6ecee20e7e8ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.9096,
     55.29839000000001
 ],
-  "geometry": {"coordinates":[23.9096,55.29839000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.9096,55.29839],"type":"Point"}
 }

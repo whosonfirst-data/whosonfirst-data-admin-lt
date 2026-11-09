@@ -69,7 +69,7 @@
         "wk:page":"Lek%C4%97%C4%8Diai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"639942b734c1d31cefc3222017605a08",
+    "wof:geomhash":"9e991564a914ed1deabd2e07b2b9d1c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     23.49734,
     54.98063000000001
 ],
-  "geometry": {"coordinates":[23.49734,54.98063000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.49734,54.98063],"type":"Point"}
 }

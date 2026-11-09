@@ -49,7 +49,7 @@
         "wk:page":"Novo%C4%8D%C4%97b%C4%97"
     },
     "wof:country":"LT",
-    "wof:geomhash":"85ef5b833d926d9c2dc8a14c11ac2f91",
+    "wof:geomhash":"eeff667155aa585dfff4195dbb7c3a52",
     "wof:hierarchy":[
         {
             "country_id":85633269,
@@ -72,5 +72,5 @@
     23.91652,
     55.27101999999999
 ],
-  "geometry": {"coordinates":[23.91652,55.27101999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.91652,55.27102],"type":"Point"}
 }

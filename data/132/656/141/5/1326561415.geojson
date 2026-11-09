@@ -55,7 +55,7 @@
         "wk:page":"%C5%BDibininkai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"1a55bbd7b548fd08b0870733632bbff2",
+    "wof:geomhash":"1768dea82920f131e3b0029ee6f4550f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.14717000000001,
     55.9591
 ],
-  "geometry": {"coordinates":[21.14717000000001,55.9591],"type":"Point"}
+  "geometry": {"coordinates":[21.14717,55.9591],"type":"Point"}
 }

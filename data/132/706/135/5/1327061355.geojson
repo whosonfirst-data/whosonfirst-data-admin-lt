@@ -50,7 +50,7 @@
         "wk:page":"Dainava_%28Var%C4%97na%29"
     },
     "wof:country":"LT",
-    "wof:geomhash":"92935d454a0cf5c86971e015b94aebcc",
+    "wof:geomhash":"14773e72db9e9d7fa54aa3970248615c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     24.70416,
     54.14788000000001
 ],
-  "geometry": {"coordinates":[24.70416,54.14788000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.70416,54.14788],"type":"Point"}
 }

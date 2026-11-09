@@ -46,7 +46,7 @@
         "wk:page":"Butvydonys"
     },
     "wof:country":"LT",
-    "wof:geomhash":"a84a8f637bbee5e475d1de38fda1793c",
+    "wof:geomhash":"3f1efb044962b6bea84438046d8543a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     24.82997,
     54.27676999999999
 ],
-  "geometry": {"coordinates":[24.82997,54.27676999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.82997,54.27677],"type":"Point"}
 }

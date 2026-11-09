@@ -66,7 +66,7 @@
         "wk:page":"Kairiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"d84bf8bbd0f3515f51779fdcb139c7b0",
+    "wof:geomhash":"59662b259d3669235d6bf0dad71c4d10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     23.43423,
     55.92061999999999
 ],
-  "geometry": {"coordinates":[23.43423,55.92061999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.43423,55.92062],"type":"Point"}
 }

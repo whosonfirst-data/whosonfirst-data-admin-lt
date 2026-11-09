@@ -56,7 +56,7 @@
     },
     "wof:country":"LT",
     "wof:created":1497047616,
-    "wof:geomhash":"f808352efec5c12cddc3b09575423f3e",
+    "wof:geomhash":"458513611a296216879c4245dbcfade2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     25.555575,
     55.3151935
 ],
-  "geometry": {"coordinates":[25.555575,55.3151935],"type":"Point"}
+  "geometry": {"coordinates":[25.555575,55.315194],"type":"Point"}
 }

@@ -79,7 +79,7 @@
         "wk:page":"Preila"
     },
     "wof:country":"LT",
-    "wof:geomhash":"684b4d7cd5da612919ba995a993fa4e4",
+    "wof:geomhash":"cc4b78e78ec3094439094b4cc5587487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,5 +105,5 @@
     21.06487000000001,
     55.3727
 ],
-  "geometry": {"coordinates":[21.06487000000001,55.3727],"type":"Point"}
+  "geometry": {"coordinates":[21.06487,55.3727],"type":"Point"}
 }

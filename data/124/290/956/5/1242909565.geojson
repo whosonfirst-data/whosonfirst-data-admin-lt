@@ -64,7 +64,7 @@
         "wk:page":"Varnupiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"d227ed890749af433a0f0c2cc5fa8318",
+    "wof:geomhash":"2583326b43c6e8686819edca7348d516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.5198,
     54.48784000000001
 ],
-  "geometry": {"coordinates":[23.5198,54.48784000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.5198,54.48784],"type":"Point"}
 }

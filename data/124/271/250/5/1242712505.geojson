@@ -73,7 +73,7 @@
         "wk:page":"Skiemonys"
     },
     "wof:country":"LT",
-    "wof:geomhash":"f1792cbfc2edadce1552856ca070c85e",
+    "wof:geomhash":"8b0200cc71f5a00b38694cc1e0df0ed0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     25.27385,
     55.41843000000001
 ],
-  "geometry": {"coordinates":[25.27385,55.41843000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.27385,55.41843],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Krak%C5%ABnai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"ec9a862d5fa7482ae5ec7d340ab50da2",
+    "wof:geomhash":"9139d1a03719a4972306db2df628605d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     25.61742000000001,
     54.14932
 ],
-  "geometry": {"coordinates":[25.61742000000001,54.14932],"type":"Point"}
+  "geometry": {"coordinates":[25.61742,54.14932],"type":"Point"}
 }

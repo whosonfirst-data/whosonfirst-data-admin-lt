@@ -56,7 +56,7 @@
         "wk:page":"Krakiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"57b9e65b518be2f18fa506f202f0c128",
+    "wof:geomhash":"c47317f5a2d9a9175b4f140f013b8de9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     22.41816,
     56.26694000000001
 ],
-  "geometry": {"coordinates":[22.41816,56.26694000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.41816,56.26694],"type":"Point"}
 }

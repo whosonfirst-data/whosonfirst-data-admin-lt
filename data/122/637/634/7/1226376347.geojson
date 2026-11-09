@@ -68,7 +68,7 @@
         "wk:page":"Nerimdai%C4%8Diai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"cf162c42aef5900af65ea2e3204d1f40",
+    "wof:geomhash":"fb0b9c1ee3d2c462495627dfae158cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.41255,
     56.08434000000001
 ],
-  "geometry": {"coordinates":[22.41255,56.08434000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.41255,56.08434],"type":"Point"}
 }

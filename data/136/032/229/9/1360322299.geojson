@@ -75,7 +75,7 @@
         "wk:page":"%C5%BDygai%C4%8Diai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"33a6da1a24e1fbde93c2c46e5dbbdb06",
+    "wof:geomhash":"640cfb209b22f865e0b84c1bf612d31a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     22.03178,
     55.31041999999999
 ],
-  "geometry": {"coordinates":[22.03178,55.31041999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.03178,55.31042],"type":"Point"}
 }

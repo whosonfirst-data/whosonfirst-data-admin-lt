@@ -72,7 +72,7 @@
         "wk:page":"Daugailiai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"85a8ba843ece2af5987356e8c80ddc4d",
+    "wof:geomhash":"733fb85bdfc627485da129ceabfec7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     25.83329,
     55.58716999999999
 ],
-  "geometry": {"coordinates":[25.83329,55.58716999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.83329,55.58717],"type":"Point"}
 }

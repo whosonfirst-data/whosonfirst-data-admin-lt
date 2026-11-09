@@ -62,7 +62,7 @@
         "wk:page":"%C5%A0iupyliai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"062a981f7a12fd83ecf9f7c4533000a4",
+    "wof:geomhash":"8716aacb0ceae2742729e73b747950b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     23.14791,
     56.09373000000001
 ],
-  "geometry": {"coordinates":[23.14791,56.09373000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.14791,56.09373],"type":"Point"}
 }

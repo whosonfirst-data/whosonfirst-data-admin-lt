@@ -52,7 +52,7 @@
         "wk:page":"Gud%C5%BEioniai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"fa621ee4ca41c8f3bd679f4425ac958f",
+    "wof:geomhash":"dfe716c0b9e45bbb3216070360e85407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     24.31409,
     55.09973000000001
 ],
-  "geometry": {"coordinates":[24.31409,55.09973000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.31409,55.09973],"type":"Point"}
 }

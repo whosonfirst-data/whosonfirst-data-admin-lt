@@ -69,7 +69,7 @@
         "wk:page":"%C5%BDvirg%C5%BEdai%C4%8Diai"
     },
     "wof:country":"LT",
-    "wof:geomhash":"6772ae8f2816297f85926974daa4a5a9",
+    "wof:geomhash":"3026dacef99c921c99a846372fe48544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     23.03096,
     54.79508000000001
 ],
-  "geometry": {"coordinates":[23.03096,54.79508000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.03096,54.79508],"type":"Point"}
 }

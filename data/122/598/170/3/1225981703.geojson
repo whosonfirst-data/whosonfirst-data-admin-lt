@@ -56,7 +56,7 @@
         "wk:page":"Skaidi%C5%A1k%C4%97s"
     },
     "wof:country":"LT",
-    "wof:geomhash":"edc6b21c9026e277c6c0e54f4b193aaf",
+    "wof:geomhash":"e65fc6ee46029542c5c866725e74798a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     25.39573,
     54.61398000000001
 ],
-  "geometry": {"coordinates":[25.39573,54.61398000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.39573,54.61398],"type":"Point"}
 }
