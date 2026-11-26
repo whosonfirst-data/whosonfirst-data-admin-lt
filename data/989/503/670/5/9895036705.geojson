@@ -1,0 +1,74 @@
+{
+  "id": 9895036705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96125,55.70033,21.96125,55.70033",
+    "geom:latitude":55.70033,
+    "geom:longitude":21.96125,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906997: name \"Meinartai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906997"
+        },
+        {
+            "citation":"GeoNames populated place 12906997: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906997"
+        },
+        {
+            "citation":"GeoNames populated place 12906997: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906997"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073669 (Rietavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685741,
+        102073669,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906997
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dc111b1552abecaddc4ca7047e126350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":9895036705,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":9895036705,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Meinartai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96125,
+    55.70033,
+    21.96125,
+    55.70033
+],
+  "geometry": {"coordinates":[21.96125,55.70033],"type":"Point"}
+}

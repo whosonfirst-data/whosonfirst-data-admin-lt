@@ -1,0 +1,74 @@
+{
+  "id": 9895036684,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7813,55.25137,22.7813,55.25137",
+    "geom:latitude":55.25137,
+    "geom:longitude":22.7813,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906975: name \"Kuziai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906975"
+        },
+        {
+            "citation":"GeoNames populated place 12906975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906975"
+        },
+        {
+            "citation":"GeoNames populated place 12906975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073631 (Jurbarkas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685767,
+        102073631,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906975
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8306ddb33c43804303520f00b1531573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":9895036684,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":9895036684,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kuziai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7813,
+    55.25137,
+    22.7813,
+    55.25137
+],
+  "geometry": {"coordinates":[22.7813,55.25137],"type":"Point"}
+}

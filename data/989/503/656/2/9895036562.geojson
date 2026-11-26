@@ -1,0 +1,74 @@
+{
+  "id": 9895036562,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02343,56.40067,22.02343,56.40067",
+    "geom:latitude":56.40067,
+    "geom:longitude":22.02343,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906852: name \"Liepkaln\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906852"
+        },
+        {
+            "citation":"GeoNames populated place 12906852: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906852"
+        },
+        {
+            "citation":"GeoNames populated place 12906852: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906852"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073713 (Ma\u017eeikiai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685741,
+        102073713,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906852
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"610cd98a9ccf4e43b1e83281558ac8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":9895036562,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":9895036562,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Liepkaln\u0117",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02343,
+    56.40067,
+    22.02343,
+    56.40067
+],
+  "geometry": {"coordinates":[22.02343,56.40067],"type":"Point"}
+}

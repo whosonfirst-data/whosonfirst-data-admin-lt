@@ -1,0 +1,74 @@
+{
+  "id": 9895036743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30023,55.46956,24.30023,55.46956",
+    "geom:latitude":55.46956,
+    "geom:longitude":24.30023,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907036: name \"Gabulai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907036"
+        },
+        {
+            "citation":"GeoNames populated place 12907036: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907036"
+        },
+        {
+            "citation":"GeoNames populated place 12907036: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907036"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073701 (Paneve\u017eys), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073701,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907036
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e08f5f38e5a87c5f25f60e3505bf8d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":9895036743,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036743,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Gabulai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30023,
+    55.46956,
+    24.30023,
+    55.46956
+],
+  "geometry": {"coordinates":[24.30023,55.46956],"type":"Point"}
+}

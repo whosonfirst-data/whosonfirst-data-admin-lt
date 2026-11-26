@@ -1,0 +1,74 @@
+{
+  "id": 9895036662,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97838,56.18119,22.97838,56.18119",
+    "geom:latitude":56.18119,
+    "geom:longitude":22.97838,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906953: name \"Degul\u0117s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906953"
+        },
+        {
+            "citation":"GeoNames populated place 12906953: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906953"
+        },
+        {
+            "citation":"GeoNames populated place 12906953: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906953"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073703 (\u0160iauliai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073703,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906953
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"69b522cdd3f057bd2a4c75e10ab7b070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":9895036662,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895036662,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Degul\u0117s",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97838,
+    56.18119,
+    22.97838,
+    56.18119
+],
+  "geometry": {"coordinates":[22.97838,56.18119],"type":"Point"}
+}

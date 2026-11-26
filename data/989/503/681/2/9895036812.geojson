@@ -1,0 +1,74 @@
+{
+  "id": 9895036812,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80859,55.41102,25.80859,55.41102",
+    "geom:latitude":55.41102,
+    "geom:longitude":25.80859,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907107: name \"Papiliakalnis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907107"
+        },
+        {
+            "citation":"GeoNames populated place 12907107: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907107"
+        },
+        {
+            "citation":"GeoNames populated place 12907107: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907107"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073693 (Utena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073693,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907107
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"deaff86794d104eece0c956967bc207d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":9895036812,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895036812,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Papiliakalnis",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80859,
+    55.41102,
+    25.80859,
+    55.41102
+],
+  "geometry": {"coordinates":[25.80859,55.41102],"type":"Point"}
+}

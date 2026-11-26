@@ -1,0 +1,74 @@
+{
+  "id": 9895037146,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59837,54.40965,24.59837,54.40965",
+    "geom:latitude":54.40965,
+    "geom:longitude":24.59837,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907448: name \"Pajuodikys\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907448"
+        },
+        {
+            "citation":"GeoNames populated place 12907448: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907448"
+        },
+        {
+            "citation":"GeoNames populated place 12907448: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907448"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073589 (Varena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685765,
+        102073589,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907448
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"40e261c04b1ef4d88068e716d260023d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":9895037146,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":9895037146,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Pajuodikys",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59837,
+    54.40965,
+    24.59837,
+    54.40965
+],
+  "geometry": {"coordinates":[24.59837,54.40965],"type":"Point"}
+}

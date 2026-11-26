@@ -1,0 +1,74 @@
+{
+  "id": 9895037018,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17245,54.60299,23.17245,54.60299",
+    "geom:latitude":54.60299,
+    "geom:longitude":23.17245,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907317: name \"Pavilkaujai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907317"
+        },
+        {
+            "citation":"GeoNames populated place 12907317: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907317"
+        },
+        {
+            "citation":"GeoNames populated place 12907317: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907317"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073601 (Vilkavi\u0161kis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685753,
+        102073601,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907317
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0f6c4aa94f60d32c9d0f5fdc3f8af11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":9895037018,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":9895037018,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Pavilkaujai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17245,
+    54.60299,
+    23.17245,
+    54.60299
+],
+  "geometry": {"coordinates":[23.17245,54.60299],"type":"Point"}
+}

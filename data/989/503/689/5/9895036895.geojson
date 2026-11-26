@@ -1,0 +1,74 @@
+{
+  "id": 9895036895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.74375,55.25776,26.74375,55.25776",
+    "geom:latitude":55.25776,
+    "geom:longitude":26.74375,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907191: name \"Surma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907191"
+        },
+        {
+            "citation":"GeoNames populated place 12907191: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907191"
+        },
+        {
+            "citation":"GeoNames populated place 12907191: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907191"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073685 (Ignalina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073685,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907191
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8867b08a3977c700c55c3b7a0bc84dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":9895036895,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895036895,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Surma",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74375,
+    55.25776,
+    26.74375,
+    55.25776
+],
+  "geometry": {"coordinates":[26.74375,55.25776],"type":"Point"}
+}

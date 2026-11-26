@@ -1,0 +1,74 @@
+{
+  "id": 9895037239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60304,56.27768,23.60304,56.27768",
+    "geom:latitude":56.27768,
+    "geom:longitude":23.60304,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907544: name \"Kuiseliai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907544"
+        },
+        {
+            "citation":"GeoNames populated place 12907544: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907544"
+        },
+        {
+            "citation":"GeoNames populated place 12907544: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907544"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073723 (Joni\u0161kis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073723,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907544
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f4c918e07db29f69fd3e719c791ccf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":9895037239,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895037239,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kuiseliai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60304,
+    56.27768,
+    23.60304,
+    56.27768
+],
+  "geometry": {"coordinates":[23.60304,56.27768],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895037189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03976,55.06178,25.03976,55.06178",
+    "geom:latitude":55.06178,
+    "geom:longitude":25.03976,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907493: name \"Matardava\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907493"
+        },
+        {
+            "citation":"GeoNames populated place 12907493: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907493"
+        },
+        {
+            "citation":"GeoNames populated place 12907493: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907493"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073633 (\u0160irvintos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073633,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907493
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"77568e297b09f4ccc84b10612759f2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":9895037189,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895037189,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Matardava",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03976,
+    55.06178,
+    25.03976,
+    55.06178
+],
+  "geometry": {"coordinates":[25.03976,55.06178],"type":"Point"}
+}

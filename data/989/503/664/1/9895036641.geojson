@@ -1,0 +1,74 @@
+{
+  "id": 9895036641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75128,56.01858,22.75128,56.01858",
+    "geom:latitude":56.01858,
+    "geom:longitude":22.75128,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906932: name \"Pavai\u0161v\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906932"
+        },
+        {
+            "citation":"GeoNames populated place 12906932: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906932"
+        },
+        {
+            "citation":"GeoNames populated place 12906932: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906932"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073703 (\u0160iauliai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073703,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906932
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7aa669fc600a5a0fda6216dc38ab15f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":9895036641,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895036641,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Pavai\u0161v\u0117",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75128,
+    56.01858,
+    22.75128,
+    56.01858
+],
+  "geometry": {"coordinates":[22.75128,56.01858],"type":"Point"}
+}

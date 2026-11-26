@@ -1,0 +1,74 @@
+{
+  "id": 9895036554,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02257,55.52365,23.02257,55.52365",
+    "geom:latitude":55.52365,
+    "geom:longitude":23.02257,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906843: name \"Gab\u0117ti\u0161k\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906843"
+        },
+        {
+            "citation":"GeoNames populated place 12906843: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906843"
+        },
+        {
+            "citation":"GeoNames populated place 12906843: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906843"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073673 (Kelme), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073673,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906843
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"886e57b63b52c0419773278d4e03da37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":9895036554,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895036554,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Gab\u0117ti\u0161k\u0117",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02257,
+    55.52365,
+    23.02257,
+    55.52365
+],
+  "geometry": {"coordinates":[23.02257,55.52365],"type":"Point"}
+}

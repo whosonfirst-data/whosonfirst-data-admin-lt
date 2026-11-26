@@ -1,0 +1,74 @@
+{
+  "id": 9895036649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29722,55.80972,25.29722,55.80972",
+    "geom:latitude":55.80972,
+    "geom:longitude":25.29722,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906940: name \"\u0160ereliai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906940"
+        },
+        {
+            "citation":"GeoNames populated place 12906940: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906940"
+        },
+        {
+            "citation":"GeoNames populated place 12906940: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906940"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073705 (Kupi\u0161kis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073705,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906940
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"893a58a35b380850df3e0316926b2b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":9895036649,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036649,
+    "wof:lastmodified":1795735011,
+    "wof:name":"\u0160ereliai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29722,
+    55.80972,
+    25.29722,
+    55.80972
+],
+  "geometry": {"coordinates":[25.29722,55.80972],"type":"Point"}
+}

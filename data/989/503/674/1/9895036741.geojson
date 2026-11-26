@@ -1,0 +1,74 @@
+{
+  "id": 9895036741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.738,55.01169,24.738,55.01169",
+    "geom:latitude":55.01169,
+    "geom:longitude":24.738,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907034: name \"Moliup\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907034"
+        },
+        {
+            "citation":"GeoNames populated place 12907034: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907034"
+        },
+        {
+            "citation":"GeoNames populated place 12907034: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907034"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073633 (\u0160irvintos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073633,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907034
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3e9106e2dc50abe60f7e416601fb2df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":9895036741,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036741,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Moliup\u0117",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.738,
+    55.01169,
+    24.738,
+    55.01169
+],
+  "geometry": {"coordinates":[24.738,55.01169],"type":"Point"}
+}

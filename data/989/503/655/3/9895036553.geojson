@@ -1,0 +1,74 @@
+{
+  "id": 9895036553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36824,54.38334,25.36824,54.38334",
+    "geom:latitude":54.38334,
+    "geom:longitude":25.36824,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906842: name \"\u0160al\u010dinink\u0117li\u0173 Tartokas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906842"
+        },
+        {
+            "citation":"GeoNames populated place 12906842: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906842"
+        },
+        {
+            "citation":"GeoNames populated place 12906842: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906842"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073597 (\u0160alcininkai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073597,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906842
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b76487bf290fbea699eb5a44f1914ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":9895036553,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036553,
+    "wof:lastmodified":1795735011,
+    "wof:name":"\u0160al\u010dinink\u0117li\u0173 Tartokas",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36824,
+    54.38334,
+    25.36824,
+    54.38334
+],
+  "geometry": {"coordinates":[25.36824,54.38334],"type":"Point"}
+}

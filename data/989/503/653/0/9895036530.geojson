@@ -1,0 +1,74 @@
+{
+  "id": 9895036530,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3687,56.20085,24.3687,56.20085",
+    "geom:latitude":56.20085,
+    "geom:longitude":24.3687,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906819: name \"Pakama\u010diai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906819"
+        },
+        {
+            "citation":"GeoNames populated place 12906819: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906819"
+        },
+        {
+            "citation":"GeoNames populated place 12906819: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906819"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073719 (Pasvalys), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073719,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906819
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ed84a5870366c0cb4af07564ee901b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":9895036530,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036530,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Pakama\u010diai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3687,
+    56.20085,
+    24.3687,
+    56.20085
+],
+  "geometry": {"coordinates":[24.3687,56.20085],"type":"Point"}
+}

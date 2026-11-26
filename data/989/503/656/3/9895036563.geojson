@@ -1,0 +1,74 @@
+{
+  "id": 9895036563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81284,55.90198,21.81284,55.90198",
+    "geom:latitude":55.90198,
+    "geom:longitude":21.81284,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906853: name \"Nori\u0161kiai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906853"
+        },
+        {
+            "citation":"GeoNames populated place 12906853: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906853"
+        },
+        {
+            "citation":"GeoNames populated place 12906853: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906853"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073695 (Plunge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685741,
+        102073695,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906853
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9c40faa603c5b0c1b203ca927fd88171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":9895036563,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":9895036563,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Nori\u0161kiai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81284,
+    55.90198,
+    21.81284,
+    55.90198
+],
+  "geometry": {"coordinates":[21.81284,55.90198],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.57464,55.50288,23.57464,55.50288",
+    "geom:latitude":55.50288,
+    "geom:longitude":23.57464,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907183: name \"Pakr\u016bmiai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907183"
+        },
+        {
+            "citation":"GeoNames populated place 12907183: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907183"
+        },
+        {
+            "citation":"GeoNames populated place 12907183: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907183"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073679 (Radvili\u0161kis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073679,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907183
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e030f4882101bee25efedce50b359ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":9895036887,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895036887,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Pakr\u016bmiai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57464,
+    55.50288,
+    23.57464,
+    55.50288
+],
+  "geometry": {"coordinates":[23.57464,55.50288],"type":"Point"}
+}

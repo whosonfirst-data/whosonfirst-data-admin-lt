@@ -1,0 +1,72 @@
+{
+  "id": 9895036860,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99212,54.47956,23.99212,54.47956",
+    "geom:latitude":54.47956,
+    "geom:longitude":23.99212,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907155: name \"Taukoti\u0161k\u0117s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907155"
+        },
+        {
+            "citation":"GeoNames populated place 12907155: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907155"
+        },
+        {
+            "citation":"GeoNames populated place 12907155: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907155"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1175612921 (Alytus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907155
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"696871b0585bbad6416324b3829b5eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "locality_id":9895036860,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":9895036860,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Taukoti\u0161k\u0117s",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99212,
+    54.47956,
+    23.99212,
+    54.47956
+],
+  "geometry": {"coordinates":[23.99212,54.47956],"type":"Point"}
+}

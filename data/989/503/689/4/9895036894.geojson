@@ -1,0 +1,74 @@
+{
+  "id": 9895036894,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.26715,55.30019,26.26715,55.30019",
+    "geom:latitude":55.30019,
+    "geom:longitude":26.26715,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907190: name \"Maskoli\u0161k\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907190"
+        },
+        {
+            "citation":"GeoNames populated place 12907190: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907190"
+        },
+        {
+            "citation":"GeoNames populated place 12907190: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907190"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073685 (Ignalina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073685,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907190
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7fadac8dafcfcca467d553f21c0b97c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":9895036894,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895036894,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Maskoli\u0161k\u0117",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.26715,
+    55.30019,
+    26.26715,
+    55.30019
+],
+  "geometry": {"coordinates":[26.26715,55.30019],"type":"Point"}
+}

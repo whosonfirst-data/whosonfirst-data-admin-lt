@@ -1,0 +1,74 @@
+{
+  "id": 9895036540,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.38259,55.60993,26.38259,55.60993",
+    "geom:latitude":55.60993,
+    "geom:longitude":26.38259,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906829: name \"Gailiuti\u0161k\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906829"
+        },
+        {
+            "citation":"GeoNames populated place 12906829: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906829"
+        },
+        {
+            "citation":"GeoNames populated place 12906829: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906829"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073709 (Zarasai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073709,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906829
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7ccf6d4851c481ba6cf96c2bceed9495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":9895036540,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895036540,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Gailiuti\u0161k\u0117",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38259,
+    55.60993,
+    26.38259,
+    55.60993
+],
+  "geometry": {"coordinates":[26.38259,55.60993],"type":"Point"}
+}

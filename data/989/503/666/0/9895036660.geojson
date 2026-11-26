@@ -1,0 +1,74 @@
+{
+  "id": 9895036660,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61805,55.2026,24.61805,55.2026",
+    "geom:latitude":55.2026,
+    "geom:longitude":24.61805,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906951: name \"Kvietieniai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906951"
+        },
+        {
+            "citation":"GeoNames populated place 12906951: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906951"
+        },
+        {
+            "citation":"GeoNames populated place 12906951: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906951"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073663 (Ukmerge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073663,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906951
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c1d3a0d73ec07243311ec3ece136f704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":9895036660,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036660,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kvietieniai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61805,
+    55.2026,
+    24.61805,
+    55.2026
+],
+  "geometry": {"coordinates":[24.61805,55.2026],"type":"Point"}
+}

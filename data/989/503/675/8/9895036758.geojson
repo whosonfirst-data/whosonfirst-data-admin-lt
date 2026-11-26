@@ -1,0 +1,74 @@
+{
+  "id": 9895036758,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75554,56.17302,23.75554,56.17302",
+    "geom:latitude":56.17302,
+    "geom:longitude":23.75554,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907051: name \"Bub\u0161tai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907051"
+        },
+        {
+            "citation":"GeoNames populated place 12907051: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907051"
+        },
+        {
+            "citation":"GeoNames populated place 12907051: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907051"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073717 (Pakruojis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073717,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907051
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"71e11b2afb297317cd207d34d75ceb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":9895036758,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895036758,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Bub\u0161tai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75554,
+    56.17302,
+    23.75554,
+    56.17302
+],
+  "geometry": {"coordinates":[23.75554,56.17302],"type":"Point"}
+}

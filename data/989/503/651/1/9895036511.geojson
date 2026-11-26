@@ -1,0 +1,74 @@
+{
+  "id": 9895036511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32997,56.10316,21.32997,56.10316",
+    "geom:latitude":56.10316,
+    "geom:longitude":21.32997,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906800: name \"Darbal\u0117s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906800"
+        },
+        {
+            "citation":"GeoNames populated place 12906800: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906800"
+        },
+        {
+            "citation":"GeoNames populated place 12906800: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906800"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073681 (Kretinga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685747,
+        102073681,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906800
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"befa7eb9ff303b7c0e0bc482bbc286fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":9895036511,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":9895036511,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Darbal\u0117s",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32997,
+    56.10316,
+    21.32997,
+    56.10316
+],
+  "geometry": {"coordinates":[21.32997,56.10316],"type":"Point"}
+}

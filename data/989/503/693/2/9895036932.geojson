@@ -1,0 +1,74 @@
+{
+  "id": 9895036932,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.29781,55.21887,23.29781,55.21887",
+    "geom:latitude":55.21887,
+    "geom:longitude":23.29781,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907228: name \"U\u017eringis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907228"
+        },
+        {
+            "citation":"GeoNames populated place 12907228: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907228"
+        },
+        {
+            "citation":"GeoNames populated place 12907228: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907228"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073631 (Jurbarkas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685767,
+        102073631,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907228
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"49405ed6fa10ae6ca7a9bad6182ba3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":9895036932,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":9895036932,
+    "wof:lastmodified":1795735011,
+    "wof:name":"U\u017eringis",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.29781,
+    55.21887,
+    23.29781,
+    55.21887
+],
+  "geometry": {"coordinates":[23.29781,55.21887],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895037370,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96271,54.95021,23.96271,54.95021",
+    "geom:latitude":54.95021,
+    "geom:longitude":23.96271,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13432589: name \"Naujasodis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13432589"
+        },
+        {
+            "citation":"GeoNames populated place 13432589: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13432589"
+        },
+        {
+            "citation":"GeoNames populated place 13432589: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13432589"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073625 (Kaunas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685773,
+        102073625,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13432589
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fb003c329a59ce45a7bbffc0f291eda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":9895037370,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":9895037370,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Naujasodis",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96271,
+    54.95021,
+    23.96271,
+    54.95021
+],
+  "geometry": {"coordinates":[23.96271,54.95021],"type":"Point"}
+}

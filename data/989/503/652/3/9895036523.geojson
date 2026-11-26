@@ -1,0 +1,74 @@
+{
+  "id": 9895036523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28565,54.97975,25.28565,54.97975",
+    "geom:latitude":54.97975,
+    "geom:longitude":25.28565,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906812: name \"Stanislovi\u0161k\u0117s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906812"
+        },
+        {
+            "citation":"GeoNames populated place 12906812: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906812"
+        },
+        {
+            "citation":"GeoNames populated place 12906812: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906812"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073629 (Vilnius), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073629,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906812
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"957473dea7a4a0ee8bcb56f7d3fc0656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":9895036523,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036523,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Stanislovi\u0161k\u0117s",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28565,
+    54.97975,
+    25.28565,
+    54.97975
+],
+  "geometry": {"coordinates":[25.28565,54.97975],"type":"Point"}
+}

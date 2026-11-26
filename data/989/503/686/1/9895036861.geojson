@@ -1,0 +1,74 @@
+{
+  "id": 9895036861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.19526,55.75569,24.19526,55.75569",
+    "geom:latitude":55.75569,
+    "geom:longitude":24.19526,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907156: name \"Rudik\u0117liai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907156"
+        },
+        {
+            "citation":"GeoNames populated place 12907156: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907156"
+        },
+        {
+            "citation":"GeoNames populated place 12907156: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907156"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073701 (Paneve\u017eys), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073701,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907156
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e259e60afb19b7910a466db12afccd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":9895036861,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036861,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Rudik\u0117liai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.19526,
+    55.75569,
+    24.19526,
+    55.75569
+],
+  "geometry": {"coordinates":[24.19526,55.75569],"type":"Point"}
+}

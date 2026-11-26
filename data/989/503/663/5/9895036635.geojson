@@ -1,0 +1,74 @@
+{
+  "id": 9895036635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86662,56.30963,24.86662,56.30963",
+    "geom:latitude":56.30963,
+    "geom:longitude":24.86662,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906926: name \"Gudi\u0161kis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906926"
+        },
+        {
+            "citation":"GeoNames populated place 12906926: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906926"
+        },
+        {
+            "citation":"GeoNames populated place 12906926: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906926"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073727 (Bir\u017eai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073727,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906926
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e9e7368bc3cf839c255cc2dd9a7514a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":9895036635,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036635,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Gudi\u0161kis",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86662,
+    56.30963,
+    24.86662,
+    56.30963
+],
+  "geometry": {"coordinates":[24.86662,56.30963],"type":"Point"}
+}

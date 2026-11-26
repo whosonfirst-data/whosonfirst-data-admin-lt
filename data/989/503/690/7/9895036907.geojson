@@ -1,0 +1,74 @@
+{
+  "id": 9895036907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.49531,55.1735,26.49531,55.1735",
+    "geom:latitude":55.1735,
+    "geom:longitude":26.49531,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907203: name \"Saul\u0117ni\u0161k\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907203"
+        },
+        {
+            "citation":"GeoNames populated place 12907203: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907203"
+        },
+        {
+            "citation":"GeoNames populated place 12907203: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907203"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073665 (\u0160vencionys), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073665,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907203
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"11b350161d1d7c9add30c99ff6cd3978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":9895036907,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036907,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Saul\u0117ni\u0161k\u0117",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.49531,
+    55.1735,
+    26.49531,
+    55.1735
+],
+  "geometry": {"coordinates":[26.49531,55.1735],"type":"Point"}
+}

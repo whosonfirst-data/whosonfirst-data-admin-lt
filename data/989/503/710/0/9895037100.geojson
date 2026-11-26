@@ -1,0 +1,74 @@
+{
+  "id": 9895037100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.40725,55.49585,25.40725,55.49585",
+    "geom:latitude":55.49585,
+    "geom:longitude":25.40725,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907400: name \"Krunki\u0161kis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907400"
+        },
+        {
+            "citation":"GeoNames populated place 12907400: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907400"
+        },
+        {
+            "citation":"GeoNames populated place 12907400: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907400"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073693 (Utena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073693,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907400
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bd15b79ebf86532e18e0280f45d661a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":9895037100,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895037100,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Krunki\u0161kis",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.40725,
+    55.49585,
+    25.40725,
+    55.49585
+],
+  "geometry": {"coordinates":[25.40725,55.49585],"type":"Point"}
+}

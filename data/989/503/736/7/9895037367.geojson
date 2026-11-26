@@ -1,0 +1,72 @@
+{
+  "id": 9895037367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72586,54.38028,23.72586,54.38028",
+    "geom:latitude":54.38028,
+    "geom:longitude":23.72586,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13432505: name \"Atesninkai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13432505"
+        },
+        {
+            "citation":"GeoNames populated place 13432505: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13432505"
+        },
+        {
+            "citation":"GeoNames populated place 13432505: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13432505"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1175612921 (Alytus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13432505
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ebe849aef0ee8e8a409575ef382c307f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "locality_id":9895037367,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":9895037367,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Atesninkai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72586,
+    54.38028,
+    23.72586,
+    54.38028
+],
+  "geometry": {"coordinates":[23.72586,54.38028],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036836,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5108,56.24037,23.5108,56.24037",
+    "geom:latitude":56.24037,
+    "geom:longitude":23.5108,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907131: name \"\u0160li\u016bpi\u0161k\u0117s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907131"
+        },
+        {
+            "citation":"GeoNames populated place 12907131: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907131"
+        },
+        {
+            "citation":"GeoNames populated place 12907131: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907131"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073723 (Joni\u0161kis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073723,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907131
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9d75d70b2f6bbf4742457dc89b558beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":9895036836,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895036836,
+    "wof:lastmodified":1795735011,
+    "wof:name":"\u0160li\u016bpi\u0161k\u0117s",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5108,
+    56.24037,
+    23.5108,
+    56.24037
+],
+  "geometry": {"coordinates":[23.5108,56.24037],"type":"Point"}
+}

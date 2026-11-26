@@ -1,0 +1,74 @@
+{
+  "id": 9895036600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51094,55.30928,22.51094,55.30928",
+    "geom:latitude":55.30928,
+    "geom:longitude":22.51094,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906890: name \"Melagi\u0161k\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906890"
+        },
+        {
+            "citation":"GeoNames populated place 12906890: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906890"
+        },
+        {
+            "citation":"GeoNames populated place 12906890: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906890"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073637 (Taurage), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685767,
+        102073637,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906890
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a6dfb8e2df71374da8b9afbb93614b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":9895036600,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":9895036600,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Melagi\u0161k\u0117",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51094,
+    55.30928,
+    22.51094,
+    55.30928
+],
+  "geometry": {"coordinates":[22.51094,55.30928],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895037259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83002,56.0161,21.83002,56.0161",
+    "geom:latitude":56.0161,
+    "geom:longitude":21.83002,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907564: name \"Laumalenkos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907564"
+        },
+        {
+            "citation":"GeoNames populated place 12907564: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907564"
+        },
+        {
+            "citation":"GeoNames populated place 12907564: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907564"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073695 (Plunge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685741,
+        102073695,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907564
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a89aab7d7bc75b18f70cb7687ef7db85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":9895037259,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":9895037259,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Laumalenkos",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83002,
+    56.0161,
+    21.83002,
+    56.0161
+],
+  "geometry": {"coordinates":[21.83002,56.0161],"type":"Point"}
+}

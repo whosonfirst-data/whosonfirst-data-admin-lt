@@ -1,0 +1,74 @@
+{
+  "id": 9895037114,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07533,55.97856,25.07533,55.97856",
+    "geom:latitude":55.97856,
+    "geom:longitude":25.07533,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907414: name \"Suvaidi\u0161kiai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907414"
+        },
+        {
+            "citation":"GeoNames populated place 12907414: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907414"
+        },
+        {
+            "citation":"GeoNames populated place 12907414: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907414"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073721 (Roki\u0161kis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073721,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907414
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"86934afeef47f160d624d688555b47dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":9895037114,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895037114,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Suvaidi\u0161kiai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07533,
+    55.97856,
+    25.07533,
+    55.97856
+],
+  "geometry": {"coordinates":[25.07533,55.97856],"type":"Point"}
+}

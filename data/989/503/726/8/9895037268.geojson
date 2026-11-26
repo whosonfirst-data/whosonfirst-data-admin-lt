@@ -1,0 +1,74 @@
+{
+  "id": 9895037268,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46273,55.69007,25.46273,55.69007",
+    "geom:latitude":55.69007,
+    "geom:longitude":25.46273,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907573: name \"Drob\u010di\u016bnai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907573"
+        },
+        {
+            "citation":"GeoNames populated place 12907573: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907573"
+        },
+        {
+            "citation":"GeoNames populated place 12907573: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907573"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073687 (Anyk\u0161ciai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073687,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907573
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dc8085c5e6a91c3dfdf354a716f1a74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":9895037268,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895037268,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Drob\u010di\u016bnai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46273,
+    55.69007,
+    25.46273,
+    55.69007
+],
+  "geometry": {"coordinates":[25.46273,55.69007],"type":"Point"}
+}

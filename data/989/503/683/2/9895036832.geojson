@@ -1,0 +1,74 @@
+{
+  "id": 9895036832,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14831,56.04687,21.14831,56.04687",
+    "geom:latitude":56.04687,
+    "geom:longitude":21.14831,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907127: name \"Au\u0161rakaimis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907127"
+        },
+        {
+            "citation":"GeoNames populated place 12907127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907127"
+        },
+        {
+            "citation":"GeoNames populated place 12907127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907127"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073681 (Kretinga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685747,
+        102073681,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907127
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7279fdbe1b40740e51b4705f1a307d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":9895036832,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":9895036832,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Au\u0161rakaimis",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14831,
+    56.04687,
+    21.14831,
+    56.04687
+],
+  "geometry": {"coordinates":[21.14831,56.04687],"type":"Point"}
+}

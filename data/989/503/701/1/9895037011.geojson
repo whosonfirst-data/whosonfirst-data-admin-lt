@@ -1,0 +1,74 @@
+{
+  "id": 9895037011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40823,55.6203,22.40823,55.6203",
+    "geom:latitude":55.6203,
+    "geom:longitude":22.40823,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907310: name \"Skabu\u010diai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907310"
+        },
+        {
+            "citation":"GeoNames populated place 12907310: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907310"
+        },
+        {
+            "citation":"GeoNames populated place 12907310: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907310"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073655 (\u0160ilale), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685767,
+        102073655,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907310
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b05f42cfbe084c95566573fdfdbb2419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":9895037011,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":9895037011,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Skabu\u010diai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40823,
+    55.6203,
+    22.40823,
+    55.6203
+],
+  "geometry": {"coordinates":[22.40823,55.6203],"type":"Point"}
+}

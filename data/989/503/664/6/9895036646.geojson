@@ -1,0 +1,74 @@
+{
+  "id": 9895036646,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57451,54.67025,24.57451,54.67025",
+    "geom:latitude":54.67025,
+    "geom:longitude":24.57451,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906937: name \"\u017dirginiai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906937"
+        },
+        {
+            "citation":"GeoNames populated place 12906937: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906937"
+        },
+        {
+            "citation":"GeoNames populated place 12906937: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906937"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073613 (Elektrenai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073613,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906937
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e1b4a30808139a9e14e70e3b586e2189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":9895036646,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036646,
+    "wof:lastmodified":1795735011,
+    "wof:name":"\u017dirginiai",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57451,
+    54.67025,
+    24.57451,
+    54.67025
+],
+  "geometry": {"coordinates":[24.57451,54.67025],"type":"Point"}
+}

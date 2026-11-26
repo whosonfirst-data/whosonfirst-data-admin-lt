@@ -1,0 +1,74 @@
+{
+  "id": 9895036981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29008,55.80316,24.29008,55.80316",
+    "geom:latitude":55.80316,
+    "geom:longitude":24.29008,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907280: name \"Pakuod\u017eiup\u0117liai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907280"
+        },
+        {
+            "citation":"GeoNames populated place 12907280: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907280"
+        },
+        {
+            "citation":"GeoNames populated place 12907280: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907280"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073701 (Paneve\u017eys), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073701,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907280
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4f00bc1e5d33255bcec5d91c17bfcf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":9895036981,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036981,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Pakuod\u017eiup\u0117liai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29008,
+    55.80316,
+    24.29008,
+    55.80316
+],
+  "geometry": {"coordinates":[24.29008,55.80316],"type":"Point"}
+}

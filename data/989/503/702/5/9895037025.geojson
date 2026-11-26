@@ -1,0 +1,74 @@
+{
+  "id": 9895037025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28863,55.40963,25.28863,55.40963",
+    "geom:latitude":55.40963,
+    "geom:longitude":25.28863,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907325: name \"Ustron\u0117 I\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907325"
+        },
+        {
+            "citation":"GeoNames populated place 12907325: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907325"
+        },
+        {
+            "citation":"GeoNames populated place 12907325: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907325"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073687 (Anyk\u0161ciai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073687,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907325
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bc28da0776a6092e84240061f701d100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":9895037025,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895037025,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Ustron\u0117 I",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28863,
+    55.40963,
+    25.28863,
+    55.40963
+],
+  "geometry": {"coordinates":[25.28863,55.40963],"type":"Point"}
+}
