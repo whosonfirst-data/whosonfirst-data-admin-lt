@@ -1,0 +1,74 @@
+{
+  "id": 9895037278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65691,55.14613,23.65691,55.14613",
+    "geom:latitude":55.14613,
+    "geom:longitude":23.65691,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907583: name \"Baltri\u0161k\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907583"
+        },
+        {
+            "citation":"GeoNames populated place 12907583: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907583"
+        },
+        {
+            "citation":"GeoNames populated place 12907583: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907583"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073625 (Kaunas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685773,
+        102073625,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907583
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dfb913baaebccf63a967df06831df14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":9895037278,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":9895037278,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Baltri\u0161k\u0117",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65691,
+    55.14613,
+    23.65691,
+    55.14613
+],
+  "geometry": {"coordinates":[23.65691,55.14613],"type":"Point"}
+}

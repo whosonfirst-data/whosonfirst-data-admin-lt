@@ -1,0 +1,74 @@
+{
+  "id": 9895037185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81195,54.72554,24.81195,54.72554",
+    "geom:latitude":54.72554,
+    "geom:longitude":24.81195,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907489: name \"Sausaraistis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907489"
+        },
+        {
+            "citation":"GeoNames populated place 12907489: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907489"
+        },
+        {
+            "citation":"GeoNames populated place 12907489: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907489"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073613 (Elektrenai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073613,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907489
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"aa522e96927c412e25e69c08fa557b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":9895037185,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895037185,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Sausaraistis",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81195,
+    54.72554,
+    24.81195,
+    54.72554
+],
+  "geometry": {"coordinates":[24.81195,54.72554],"type":"Point"}
+}

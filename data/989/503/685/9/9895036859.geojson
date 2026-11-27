@@ -1,0 +1,74 @@
+{
+  "id": 9895036859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.04246,55.29786,26.04246,55.29786",
+    "geom:latitude":55.29786,
+    "geom:longitude":26.04246,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907154: name \"Padumblys\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907154"
+        },
+        {
+            "citation":"GeoNames populated place 12907154: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907154"
+        },
+        {
+            "citation":"GeoNames populated place 12907154: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907154"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073685 (Ignalina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073685,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907154
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e29b2090dd58cac4d84fbc1000f7bf4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":9895036859,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895036859,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Padumblys",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04246,
+    55.29786,
+    26.04246,
+    55.29786
+],
+  "geometry": {"coordinates":[26.04246,55.29786],"type":"Point"}
+}

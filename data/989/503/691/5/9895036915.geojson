@@ -1,0 +1,74 @@
+{
+  "id": 9895036915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93388,54.35955,23.93388,54.35955",
+    "geom:latitude":54.35955,
+    "geom:longitude":23.93388,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907211: name \"Vovos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907211"
+        },
+        {
+            "citation":"GeoNames populated place 12907211: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907211"
+        },
+        {
+            "citation":"GeoNames populated place 12907211: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907211"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1175612921 (Alytus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685765,
+        102191581,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907211
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"01a9af1b8587fe79be4a6e08e4818758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":1175612921,
+            "locality_id":9895036915,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":9895036915,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Vovos",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93388,
+    54.35955,
+    23.93388,
+    54.35955
+],
+  "geometry": {"coordinates":[23.93388,54.35955],"type":"Point"}
+}

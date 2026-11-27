@@ -1,0 +1,74 @@
+{
+  "id": 9895036956,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63535,55.97907,24.63535,55.97907",
+    "geom:latitude":55.97907,
+    "geom:longitude":24.63535,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907255: name \"Medinos I\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907255"
+        },
+        {
+            "citation":"GeoNames populated place 12907255: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907255"
+        },
+        {
+            "citation":"GeoNames populated place 12907255: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907255"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073727 (Bir\u017eai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073727,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907255
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"13a95d3d654022ef2c648d2b2f5cd91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":9895036956,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036956,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Medinos I",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63535,
+    55.97907,
+    24.63535,
+    55.97907
+],
+  "geometry": {"coordinates":[24.63535,55.97907],"type":"Point"}
+}

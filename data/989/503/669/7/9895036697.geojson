@@ -1,0 +1,74 @@
+{
+  "id": 9895036697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.42694,54.32018,24.42694,54.32018",
+    "geom:latitude":54.32018,
+    "geom:longitude":24.42694,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906989: name \"Vilgu\u010diai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906989"
+        },
+        {
+            "citation":"GeoNames populated place 12906989: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906989"
+        },
+        {
+            "citation":"GeoNames populated place 12906989: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906989"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073589 (Varena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685765,
+        102073589,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906989
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"02ffc5045eea78e20cee624b0a1e1b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":9895036697,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":9895036697,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Vilgu\u010diai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.42694,
+    54.32018,
+    24.42694,
+    54.32018
+],
+  "geometry": {"coordinates":[24.42694,54.32018],"type":"Point"}
+}

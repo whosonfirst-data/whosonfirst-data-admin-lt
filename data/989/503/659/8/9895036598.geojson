@@ -1,0 +1,74 @@
+{
+  "id": 9895036598,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16445,55.26356,25.16445,55.26356",
+    "geom:latitude":55.26356,
+    "geom:longitude":25.16445,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906888: name \"\u0160altakeliai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906888"
+        },
+        {
+            "citation":"GeoNames populated place 12906888: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906888"
+        },
+        {
+            "citation":"GeoNames populated place 12906888: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906888"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073663 (Ukmerge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073663,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906888
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"65c5e8b7e28990ddc63592dc8fb47fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":9895036598,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036598,
+    "wof:lastmodified":1795735011,
+    "wof:name":"\u0160altakeliai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16445,
+    55.26356,
+    25.16445,
+    55.26356
+],
+  "geometry": {"coordinates":[25.16445,55.26356],"type":"Point"}
+}

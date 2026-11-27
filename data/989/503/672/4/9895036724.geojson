@@ -1,0 +1,74 @@
+{
+  "id": 9895036724,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18895,54.9808,23.18895,54.9808",
+    "geom:latitude":54.9808,
+    "geom:longitude":23.18895,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907016: name \"\u016aseliai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907016"
+        },
+        {
+            "citation":"GeoNames populated place 12907016: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907016"
+        },
+        {
+            "citation":"GeoNames populated place 12907016: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907016"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073619 (\u0160akiai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685753,
+        102073619,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907016
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"87d7f6018023acbbf3d164ff9d645e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":9895036724,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":9895036724,
+    "wof:lastmodified":1795735011,
+    "wof:name":"\u016aseliai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18895,
+    54.9808,
+    23.18895,
+    54.9808
+],
+  "geometry": {"coordinates":[23.18895,54.9808],"type":"Point"}
+}

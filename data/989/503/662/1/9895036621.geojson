@@ -1,0 +1,74 @@
+{
+  "id": 9895036621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.266,55.03073,24.266,55.03073",
+    "geom:latitude":55.03073,
+    "geom:longitude":24.266,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906911: name \"Dumsi\u0161kiai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906911"
+        },
+        {
+            "citation":"GeoNames populated place 12906911: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906911"
+        },
+        {
+            "citation":"GeoNames populated place 12906911: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906911"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073639 (Jonava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685773,
+        102073639,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906911
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2da0f9b8e29dfa1e362be8d46f008817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":9895036621,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":9895036621,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Dumsi\u0161kiai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.266,
+    55.03073,
+    24.266,
+    55.03073
+],
+  "geometry": {"coordinates":[24.266,55.03073],"type":"Point"}
+}

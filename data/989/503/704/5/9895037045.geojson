@@ -1,0 +1,74 @@
+{
+  "id": 9895037045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41353,54.27547,23.41353,54.27547",
+    "geom:latitude":54.27547,
+    "geom:longitude":23.41353,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907345: name \"Vilkakar\u010dem\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907345"
+        },
+        {
+            "citation":"GeoNames populated place 12907345: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907345"
+        },
+        {
+            "citation":"GeoNames populated place 12907345: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907345"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073583 (Lazdijai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685765,
+        102073583,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907345
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d8b839047d2124eee6f281e61e0b2df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":9895037045,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":9895037045,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Vilkakar\u010dem\u0117",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41353,
+    54.27547,
+    23.41353,
+    54.27547
+],
+  "geometry": {"coordinates":[23.41353,54.27547],"type":"Point"}
+}

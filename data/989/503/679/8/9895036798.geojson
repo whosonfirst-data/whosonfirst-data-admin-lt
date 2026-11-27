@@ -1,0 +1,74 @@
+{
+  "id": 9895036798,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11435,55.01044,26.11435,55.01044",
+    "geom:latitude":55.01044,
+    "geom:longitude":26.11435,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907092: name \"Voksa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907092"
+        },
+        {
+            "citation":"GeoNames populated place 12907092: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907092"
+        },
+        {
+            "citation":"GeoNames populated place 12907092: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907092"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073665 (\u0160vencionys), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073665,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907092
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"da1c3a6a5ab406a76c2d787809cb9929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":9895036798,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036798,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Voksa",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11435,
+    55.01044,
+    26.11435,
+    55.01044
+],
+  "geometry": {"coordinates":[26.11435,55.01044],"type":"Point"}
+}

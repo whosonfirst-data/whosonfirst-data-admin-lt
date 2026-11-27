@@ -1,0 +1,74 @@
+{
+  "id": 9895037091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33731,55.41083,24.33731,55.41083",
+    "geom:latitude":55.41083,
+    "geom:longitude":24.33731,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907391: name \"\u0160nipi\u0161kis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907391"
+        },
+        {
+            "citation":"GeoNames populated place 12907391: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907391"
+        },
+        {
+            "citation":"GeoNames populated place 12907391: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907391"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073659 (Kedainiai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685773,
+        102073659,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907391
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"80a4b4ff151e6b6ab9a69f12818fb41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":9895037091,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":9895037091,
+    "wof:lastmodified":1795735011,
+    "wof:name":"\u0160nipi\u0161kis",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33731,
+    55.41083,
+    24.33731,
+    55.41083
+],
+  "geometry": {"coordinates":[24.33731,55.41083],"type":"Point"}
+}

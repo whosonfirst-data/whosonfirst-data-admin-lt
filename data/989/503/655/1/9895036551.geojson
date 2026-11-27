@@ -1,0 +1,74 @@
+{
+  "id": 9895036551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50463,54.34255,25.50463,54.34255",
+    "geom:latitude":54.34255,
+    "geom:longitude":25.50463,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906840: name \"Klynai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906840"
+        },
+        {
+            "citation":"GeoNames populated place 12906840: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906840"
+        },
+        {
+            "citation":"GeoNames populated place 12906840: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906840"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073597 (\u0160alcininkai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073597,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906840
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"58ce8720d953376a307dc22542843233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":9895036551,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036551,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Klynai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50463,
+    54.34255,
+    25.50463,
+    54.34255
+],
+  "geometry": {"coordinates":[25.50463,54.34255],"type":"Point"}
+}

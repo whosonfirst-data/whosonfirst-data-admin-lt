@@ -1,0 +1,74 @@
+{
+  "id": 9895036979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21046,55.26372,25.21046,55.26372",
+    "geom:latitude":55.26372,
+    "geom:longitude":25.21046,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907278: name \"Dvarni\u0161kis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907278"
+        },
+        {
+            "citation":"GeoNames populated place 12907278: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907278"
+        },
+        {
+            "citation":"GeoNames populated place 12907278: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907278"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073661 (Moletai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073661,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907278
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bb42e657c6296f503c1b4ae82480ba59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":9895036979,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895036979,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Dvarni\u0161kis",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21046,
+    55.26372,
+    25.21046,
+    55.26372
+],
+  "geometry": {"coordinates":[25.21046,55.26372],"type":"Point"}
+}

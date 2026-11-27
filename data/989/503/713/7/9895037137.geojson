@@ -1,0 +1,74 @@
+{
+  "id": 9895037137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9591,54.73843,24.9591,54.73843",
+    "geom:latitude":54.73843,
+    "geom:longitude":24.9591,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907438: name \"Vingeliai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907438"
+        },
+        {
+            "citation":"GeoNames populated place 12907438: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907438"
+        },
+        {
+            "citation":"GeoNames populated place 12907438: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907438"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073613 (Elektrenai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073613,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907438
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"746b074b174904d33e22a4a9dc4eb56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":9895037137,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895037137,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Vingeliai",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9591,
+    54.73843,
+    24.9591,
+    54.73843
+],
+  "geometry": {"coordinates":[24.9591,54.73843],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036606,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.31244,55.29456,26.31244,55.29456",
+    "geom:latitude":55.29456,
+    "geom:longitude":26.31244,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906896: name \"Mikalav\u0117lis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906896"
+        },
+        {
+            "citation":"GeoNames populated place 12906896: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906896"
+        },
+        {
+            "citation":"GeoNames populated place 12906896: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906896"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073685 (Ignalina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073685,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906896
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e81ba5d2149360c7e49b5974bfb54569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":9895036606,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895036606,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Mikalav\u0117lis",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.31244,
+    55.29456,
+    26.31244,
+    55.29456
+],
+  "geometry": {"coordinates":[26.31244,55.29456],"type":"Point"}
+}

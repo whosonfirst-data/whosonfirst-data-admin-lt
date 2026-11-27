@@ -1,0 +1,74 @@
+{
+  "id": 9895036855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48863,55.85506,22.48863,55.85506",
+    "geom:latitude":55.85506,
+    "geom:longitude":22.48863,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907150: name \"Stygariai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907150"
+        },
+        {
+            "citation":"GeoNames populated place 12907150: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907150"
+        },
+        {
+            "citation":"GeoNames populated place 12907150: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907150"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073699 (Tel\u0161iai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685741,
+        102073699,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907150
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"86c0d1d0c2a1642ccdeb2886233f47af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":9895036855,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":9895036855,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Stygariai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48863,
+    55.85506,
+    22.48863,
+    55.85506
+],
+  "geometry": {"coordinates":[22.48863,55.85506],"type":"Point"}
+}

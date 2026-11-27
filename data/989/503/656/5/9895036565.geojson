@@ -1,0 +1,74 @@
+{
+  "id": 9895036565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74734,55.72677,22.74734,55.72677",
+    "geom:latitude":55.72677,
+    "geom:longitude":22.74734,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906855: name \"Stirbi\u0161iai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906855"
+        },
+        {
+            "citation":"GeoNames populated place 12906855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906855"
+        },
+        {
+            "citation":"GeoNames populated place 12906855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906855"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073673 (Kelme), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073673,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906855
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7c215a60cccd31dc9aff766119dc113f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":9895036565,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895036565,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Stirbi\u0161iai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74734,
+    55.72677,
+    22.74734,
+    55.72677
+],
+  "geometry": {"coordinates":[22.74734,55.72677],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64545,54.77206,25.64545,54.77206",
+    "geom:latitude":54.77206,
+    "geom:longitude":25.64545,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907285: name \"Bogudienkai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907285"
+        },
+        {
+            "citation":"GeoNames populated place 12907285: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907285"
+        },
+        {
+            "citation":"GeoNames populated place 12907285: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907285"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073629 (Vilnius), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073629,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907285
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b025ece6252ef6011fc1a6eb1c7828d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":9895036986,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895036986,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Bogudienkai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64545,
+    54.77206,
+    25.64545,
+    54.77206
+],
+  "geometry": {"coordinates":[25.64545,54.77206],"type":"Point"}
+}

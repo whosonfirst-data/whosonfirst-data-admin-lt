@@ -1,0 +1,74 @@
+{
+  "id": 9895036543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.44164,55.69477,26.44164,55.69477",
+    "geom:latitude":55.69477,
+    "geom:longitude":26.44164,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906832: name \"Rusti\u0161k\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906832"
+        },
+        {
+            "citation":"GeoNames populated place 12906832: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906832"
+        },
+        {
+            "citation":"GeoNames populated place 12906832: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906832"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073709 (Zarasai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073709,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906832
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f692c5ae29698fd80681742878cac4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":9895036543,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895036543,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Rusti\u0161k\u0117",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.44164,
+    55.69477,
+    26.44164,
+    55.69477
+],
+  "geometry": {"coordinates":[26.44164,55.69477],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99682,55.94731,25.99682,55.94731",
+    "geom:latitude":55.94731,
+    "geom:longitude":25.99682,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906905: name \"\u0160altakyn\u0117\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906905"
+        },
+        {
+            "citation":"GeoNames populated place 12906905: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906905"
+        },
+        {
+            "citation":"GeoNames populated place 12906905: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906905"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073721 (Roki\u0161kis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073721,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906905
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8943626677115159c64122250fce94a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":9895036615,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036615,
+    "wof:lastmodified":1795735011,
+    "wof:name":"\u0160altakyn\u0117",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99682,
+    55.94731,
+    25.99682,
+    55.94731
+],
+  "geometry": {"coordinates":[25.99682,55.94731],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895037142,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8463,55.66235,22.8463,55.66235",
+    "geom:latitude":55.66235,
+    "geom:longitude":22.8463,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907444: name \"Kip\u0161iai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907444"
+        },
+        {
+            "citation":"GeoNames populated place 12907444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907444"
+        },
+        {
+            "citation":"GeoNames populated place 12907444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907444"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073673 (Kelme), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073673,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907444
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"04d35a76309c2acbf9ebfd7390f6ed27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":9895037142,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895037142,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kip\u0161iai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8463,
+    55.66235,
+    22.8463,
+    55.66235
+],
+  "geometry": {"coordinates":[22.8463,55.66235],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036814,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7235,56.04299,24.7235,56.04299",
+    "geom:latitude":56.04299,
+    "geom:longitude":24.7235,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907109: name \"Mieli\u016bn\u0117liai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907109"
+        },
+        {
+            "citation":"GeoNames populated place 12907109: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907109"
+        },
+        {
+            "citation":"GeoNames populated place 12907109: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907109"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073727 (Bir\u017eai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685779,
+        102073727,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907109
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f7a2663db5681957c42fa3d1b1b7ce4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":9895036814,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":9895036814,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Mieli\u016bn\u0117liai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7235,
+    56.04299,
+    24.7235,
+    56.04299
+],
+  "geometry": {"coordinates":[24.7235,56.04299],"type":"Point"}
+}

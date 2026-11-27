@@ -1,0 +1,74 @@
+{
+  "id": 9895037069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0012,55.74699,26.0012,55.74699",
+    "geom:latitude":55.74699,
+    "geom:longitude":26.0012,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907369: name \"Grumbinai I\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907369"
+        },
+        {
+            "citation":"GeoNames populated place 12907369: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907369"
+        },
+        {
+            "citation":"GeoNames populated place 12907369: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907369"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073709 (Zarasai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685783,
+        102073709,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907369
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fe3ab13596d68a460d99a65e9b37fe40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":9895037069,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":9895037069,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Grumbinai I",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0012,
+    55.74699,
+    26.0012,
+    55.74699
+],
+  "geometry": {"coordinates":[26.0012,55.74699],"type":"Point"}
+}

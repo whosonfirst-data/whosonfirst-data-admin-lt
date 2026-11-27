@@ -1,0 +1,74 @@
+{
+  "id": 9895036495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01759,54.18979,24.01759,54.18979",
+    "geom:latitude":54.18979,
+    "geom:longitude":24.01759,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11308576: name \"Druskininkai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11308576"
+        },
+        {
+            "citation":"GeoNames populated place 11308576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11308576"
+        },
+        {
+            "citation":"GeoNames populated place 11308576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11308576"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1175612921 (Alytus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685765,
+        102191581,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308576
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6bb74b1244fd821b470c0fa32f2e96d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":1175612921,
+            "locality_id":9895036495,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":9895036495,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Druskininkai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01759,
+    54.18979,
+    24.01759,
+    54.18979
+],
+  "geometry": {"coordinates":[24.01759,54.18979],"type":"Point"}
+}

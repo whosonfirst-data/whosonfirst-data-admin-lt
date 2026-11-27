@@ -1,0 +1,74 @@
+{
+  "id": 9895037134,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81895,54.99195,24.81895,54.99195",
+    "geom:latitude":54.99195,
+    "geom:longitude":24.81895,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907434: name \"Rusteiki\u0161kiai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907434"
+        },
+        {
+            "citation":"GeoNames populated place 12907434: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907434"
+        },
+        {
+            "citation":"GeoNames populated place 12907434: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907434"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073633 (\u0160irvintos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685759,
+        102073633,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907434
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"42b367c05add45d1f0f9bea4a43f074f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":9895037134,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":9895037134,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Rusteiki\u0161kiai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81895,
+    54.99195,
+    24.81895,
+    54.99195
+],
+  "geometry": {"coordinates":[24.81895,54.99195],"type":"Point"}
+}

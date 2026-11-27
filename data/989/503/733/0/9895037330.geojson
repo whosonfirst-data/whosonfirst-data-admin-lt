@@ -1,0 +1,74 @@
+{
+  "id": 9895037330,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92,56.32109,22.92,56.32109",
+    "geom:latitude":56.32109,
+    "geom:longitude":22.92,
+    "iso:country":"LT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118257: name \"Alsai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118257"
+        },
+        {
+            "citation":"GeoNames populated place 13118257: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118257"
+        },
+        {
+            "citation":"GeoNames populated place 13118257: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118257"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073715 (Akmene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269,
+        85685755,
+        102073715,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118257
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"554b36c1606a0f754015a89c55035e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":9895037330,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":9895037330,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Alsai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92,
+    56.32109,
+    22.92,
+    56.32109
+],
+  "geometry": {"coordinates":[22.92,56.32109],"type":"Point"}
+}
